@@ -18,6 +18,8 @@ How did each party do in the past few elections?
 
 Has there been a trend of changing support? -- also, where should I look for those numbers?
 
+Ad expenditures?
+
 ## During Election
 
 How is everyone doing?
