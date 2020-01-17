@@ -15,3 +15,4 @@
     - then group that into 10-year, 5-year, and 1-year periods
     - has there been a pattern?
     - if so, has it stayed the same?
+7. Group the same data by contributions to politicians in San Angelo. 
